@@ -1,4 +1,4 @@
-#Fuel
+#Sparrow CMS
 
 * [Website](https://github.com/sublimeowl/kohana-sparrow/)
 * [Documentation](https://github.com/sublimeowl/kohana-sparrow/)
