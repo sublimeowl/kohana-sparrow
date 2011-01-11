@@ -1,0 +1,31 @@
+body{
+	background-color: #f7f6f1;
+	color:#444;
+	font-family: Arial,Helvetica,sans-serif;
+}
+
+#footer{
+    font-size: 9px;
+    font-family: Arial,Helvetica,sans-serif;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #0fa0ec;
+    margin-top: 10px;
+    text-align: right;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+li{list-style: none;}
+
+td{
+    padding-right: 5px;
+
+    padding-left: 5px;
+
+    padding-bottom: 5px;
+
+    padding-top: 5px;
+}
